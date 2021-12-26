@@ -2,7 +2,7 @@
 by hello
 
 - **template of:** vite + react
-- **tailwindcss:** v2.2.7
+- **tailwindcss:** v3
 
 ## Started
 with npm:
